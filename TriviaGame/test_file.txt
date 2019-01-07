@@ -1,0 +1,81 @@
+Math Quiz: Caleb Mouritsen term 2 final \ This is multiple choice, \ enter 1-4 on each question in coorelation with the 4 possible answers
+Addition
+What is 2+2?
+1. 8
+2. 3
+3. 4
+4. 6
+3
+Using simple addition methods from 1st grade, we can determine that 2+2 is indeed 4.
+Addition
+What is 14+29?
+1. 14
+2. 29
+3. 52
+4. 43
+4
+Using slightly more complicated addition methods from 2nd grade, we can determine that 14+29 is 43
+Subtraction
+What is 25-9?
+1. 6
+2. 16
+3. 12
+4. 19
+2
+Using simple subtraction, we can determine that 25-9 is 16
+Subtraction
+What is 4-9?
+1. 5
+2. 0
+3. -5
+4. -1
+3
+Moving into subtraction problems that take us into numbers less than 0, we can find that 4-9 is -5
+Multiplication
+What is 12*12?
+1. 52
+2. 24
+3. 144
+4. 56
+3
+Using multiplication tables learned in 3rd grade, we can determine that 12*12 is 144 (just add it to itself 12 times)
+Exponents
+What is 2^3? (2 to the 3rd power)
+1. 2
+2. 4
+3. 6
+4. 8
+4
+If we multiply 2 by itself three times, we can determine that 2 to the 3rd power is 8
+Order of Operations
+What is 9-5/(8-3)*2+6? (No calculators)
+1. 16
+2. 9
+3. 13
+4. 2
+3
+Using PEMDAS (Parentheses, Exponent, Multiplication, Division, Addition, Subtraction) We can determine that the answer is 13
+Slope
+If a graph's points are determined by going up 4 points, and then going over 2 points, what is the slope?
+1. 2/4
+2. 2
+3. 5
+4. 3
+2
+By using rise over run, we can determine that the answer is 4/2, which simplifies to 2
+Deriving
+What is the derivative of 6x^3?
+1. 18x^2
+2. 3/2x^4
+3. 30
+4. 144
+1
+To find a derivative, we multiply the number out front by the exponent, then subtract the exponent by 1
+Python
+Why does math help us understand Python?
+1. It doesn't
+2. Because computer do math good
+3. It helps us understand the fundamental Python syntax
+4. Because Python sucks
+3
+Math is used in python constantly to help programs understand what they need to do, the syntax uses math to do an unlimited number of things.
