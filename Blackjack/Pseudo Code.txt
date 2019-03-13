@@ -1,0 +1,2 @@
+1. This program will inherit characteristics from the card and games modules, which will allow the game to function as a blackjack game
+2. The game will allow the user to play with up to 7 players
